@@ -9,4 +9,4 @@ services:
         ports:
             - "5000:5000"
         volumes:
-            - "c:/Users/rober/Projects/test/app:/app"
+            - "/app:/app"
